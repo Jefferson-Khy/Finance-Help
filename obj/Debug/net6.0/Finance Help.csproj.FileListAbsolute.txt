@@ -1,0 +1,31 @@
+C:\Users\Justin Kang\source\repos\Finance Help\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Justin Kang\source\repos\Finance Help\bin\Debug\net6.0\appsettings.json
+C:\Users\Justin Kang\source\repos\Finance Help\bin\Debug\net6.0\Finance Help.staticwebassets.runtime.json
+C:\Users\Justin Kang\source\repos\Finance Help\bin\Debug\net6.0\Finance Help.exe
+C:\Users\Justin Kang\source\repos\Finance Help\bin\Debug\net6.0\Finance Help.deps.json
+C:\Users\Justin Kang\source\repos\Finance Help\bin\Debug\net6.0\Finance Help.runtimeconfig.json
+C:\Users\Justin Kang\source\repos\Finance Help\bin\Debug\net6.0\Finance Help.dll
+C:\Users\Justin Kang\source\repos\Finance Help\bin\Debug\net6.0\Finance Help.pdb
+C:\Users\Justin Kang\source\repos\Finance Help\obj\Debug\net6.0\Finance Help.csproj.AssemblyReference.cache
+C:\Users\Justin Kang\source\repos\Finance Help\obj\Debug\net6.0\Finance Help.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justin Kang\source\repos\Finance Help\obj\Debug\net6.0\Finance Help.AssemblyInfoInputs.cache
+C:\Users\Justin Kang\source\repos\Finance Help\obj\Debug\net6.0\Finance Help.AssemblyInfo.cs
+C:\Users\Justin Kang\source\repos\Finance Help\obj\Debug\net6.0\Finance Help.csproj.CoreCompileInputs.cache
+C:\Users\Justin Kang\source\repos\Finance Help\obj\Debug\net6.0\Finance Help.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Justin Kang\source\repos\Finance Help\obj\Debug\net6.0\Finance Help.RazorAssemblyInfo.cache
+C:\Users\Justin Kang\source\repos\Finance Help\obj\Debug\net6.0\Finance Help.RazorAssemblyInfo.cs
+C:\Users\Justin Kang\source\repos\Finance Help\obj\Debug\net6.0\staticwebassets\msbuild.Finance Help.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Justin Kang\source\repos\Finance Help\obj\Debug\net6.0\staticwebassets\msbuild.build.Finance Help.props
+C:\Users\Justin Kang\source\repos\Finance Help\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Finance Help.props
+C:\Users\Justin Kang\source\repos\Finance Help\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Finance Help.props
+C:\Users\Justin Kang\source\repos\Finance Help\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Justin Kang\source\repos\Finance Help\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Justin Kang\source\repos\Finance Help\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Justin Kang\source\repos\Finance Help\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Justin Kang\source\repos\Finance Help\obj\Debug\net6.0\scopedcss\bundle\Finance Help.styles.css
+C:\Users\Justin Kang\source\repos\Finance Help\obj\Debug\net6.0\scopedcss\projectbundle\Finance Help.bundle.scp.css
+C:\Users\Justin Kang\source\repos\Finance Help\obj\Debug\net6.0\Finance Help.dll
+C:\Users\Justin Kang\source\repos\Finance Help\obj\Debug\net6.0\refint\Finance Help.dll
+C:\Users\Justin Kang\source\repos\Finance Help\obj\Debug\net6.0\Finance Help.pdb
+C:\Users\Justin Kang\source\repos\Finance Help\obj\Debug\net6.0\Finance Help.genruntimeconfig.cache
+C:\Users\Justin Kang\source\repos\Finance Help\obj\Debug\net6.0\ref\Finance Help.dll

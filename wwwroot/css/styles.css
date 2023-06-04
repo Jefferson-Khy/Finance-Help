@@ -1,0 +1,85 @@
+﻿body {
+    background-color: #E8E9C9; /* Replace with your desired background color */
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 16px;
+    color: #333333;
+}
+
+h1 {
+    font-family: "Georgia", serif;
+    text-align: center;
+    margin-top: 10vh; /* Adjust the value to position the element vertically */
+    margin-bottom: 15vh; /* Adjust the value to position the element vertically */
+    font-size: 80px;
+}
+
+h2.retirement-subhead {
+    font-family: "Georgia", serif;
+    text-align: center;
+    margin-top: 10vh; /* Adjust the value to position the element vertically */
+    margin-bottom: 10vh; /* Adjust the value to position the element vertically */
+    font-size: 80px;
+}
+
+p.legal-disclaimer {
+    font-style: oblique;
+    font-weight: bold;
+    margin-bottom: 10vh;
+}
+
+div.legal-disclaimer {
+    font-style: oblique;
+    font-weight: bold;
+    margin-bottom: 2vh;
+    text-align: center;
+}
+
+div.disclaimer3 {
+    font-style: oblique;
+    margin-bottom: 2vh;
+    text-align: center;
+}
+
+ol li {
+    font-family: "Georgia", serif;
+    text-align: center;
+    max-width: 600px;
+    margin: auto;
+    padding-left: 0;
+    margin-bottom: 5vh;
+}
+
+.container {
+    min-height: calc(100vh - 2rem - 56px - 56px); /* Adjust the values as needed */
+    padding-bottom: 2rem; /* Adjust the value as needed */
+}
+
+.custom-navbar {
+    background-color: #E8E9C9;
+    color: white;
+}
+
+.custom-navbar a {
+    color: rgba(255, 255, 255, 0.7);
+    transition: color 0.3s ease;
+}
+
+.custom-navbar a:hover {
+    color: white;
+    font-weight: bold;
+}
+
+.button-click {
+    background-color: #8B8000;
+    border-radius: 50px;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    padding: 10px 20px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.button-click:hover {
+    background-color: #028A0F;
+}

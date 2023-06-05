@@ -5,48 +5,45 @@
     color: #333333;
 }
 
-h1 {
-    font-family: "Georgia", serif;
-    text-align: center;
-    margin-top: 10vh; /* Adjust the value to position the element vertically */
-    margin-bottom: 15vh; /* Adjust the value to position the element vertically */
+.button-click {
+    background-color: #8B8000;
+    border-radius: 50px;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    padding: 10px 20px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.button-click:hover {
+    background-color: #028A0F;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px; /* Adjust the value to push the card down */
+}
+
+.card {
+    width: 100%;
+    padding: 20px;
+    background-color: #f1f1f1;
+    border-radius: 30px; /* Adjust the value to control the roundness of the corners */
+}
+
+.card h1, .card h2 {
     font-size: 80px;
-}
-
-h2.retirement-subhead {
     font-family: "Georgia", serif;
-    text-align: center;
-    margin-top: 10vh; /* Adjust the value to position the element vertically */
-    margin-bottom: 10vh; /* Adjust the value to position the element vertically */
-    font-size: 80px;
 }
 
-p.legal-disclaimer {
-    font-style: oblique;
-    font-weight: bold;
-    margin-bottom: 10vh;
-}
-
-div.legal-disclaimer {
-    font-style: oblique;
-    font-weight: bold;
-    margin-bottom: 2vh;
+.card h1, .card p, .card div, .card h2, .card ol {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
     text-align: center;
-}
-
-div.disclaimer3 {
-    font-style: oblique;
-    margin-bottom: 2vh;
-    text-align: center;
-}
-
-ol li {
-    font-family: "Georgia", serif;
-    text-align: center;
-    max-width: 600px;
-    margin: auto;
-    padding-left: 0;
-    margin-bottom: 5vh;
 }
 
 .container {
@@ -69,17 +66,17 @@ ol li {
     font-weight: bold;
 }
 
-.button-click {
-    background-color: #8B8000;
-    border-radius: 50px;
-    font-family: "Helvetica Neue", Arial, sans-serif;
-    padding: 10px 20px;
-    border: none;
-    color: white;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
+div.disclaimer3 {
+    font-style: oblique;
+    margin-bottom: 2vh;
+    text-align: center;
 }
 
-.button-click:hover {
-    background-color: #028A0F;
+ol li {
+    font-family: "Georgia", serif;
+    text-align: center;
+    max-width: 600px;
+    margin: auto;
+    padding-left: 0;
+    margin-bottom: 5vh;
 }
